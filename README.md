@@ -8,22 +8,7 @@ _Create and run a GitHub Actions workflow._
 
 ## Welcome
 
-Automation is key for streamlining your work processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to supercharge your workflow.
-
-- **Who is this for**: Developers, DevOps engineers, students, managers, teams, GitHub users.
-- **What you'll learn**: How to create workflow files, trigger workflows, and find workflow logs.
-- **What you'll build**: An Actions workflow that will check emoji shortcode references in Markdown files.
-- **Prerequisites**: In this course you will work with issues and pull requests, as well as edit files. We recommend you take the [Introduction to GitHub](https://github.com/skills/introduction-to-github) course first.
-- **How long**: This course can be finished in less than two hours.
-
-In this course, you will:
-
-1. Create a workflow
-2. Add a job
-3. Add a run step
-4. Merge your pull request
-5. See effect of the workflow
-
+_G.Quest = { ['RGB Aura Haki'] = true, ['Pull Lever'] = true, ['Quest Dough Awaken'] = true } _G.Race = { ['Select Race'] = {'Human','Fishman','Skypiea','Mink'}, ['Lock Race'] = true, ['Evo Race V3'] = true } _G.Melee = { ['Godhuman'] = true } _G.Sword = { ['Saber'] = true, ['Midnight Blade'] = true, ['Shisui'] = true, ['Saddi'] = true, ['Wando'] = true, ['Yama'] = true, ['Koko'] = false, ['Rengoku'] = true, ['Canvander'] = true, ['Buddy Sword'] = true, ['Twin Hooks'] = true, ['SpikeyTrident'] = true, ['Hallow Scryte'] = true, ['Dark Dagger'] = true, ['Tushita'] = true, ['True Triple Katana'] = true, ['Cursed Dual Katana'] = true, ['Shark Anchor'] = true } _G.Gun = { ['Kabucha'] = true, ['Acidum Rifle'] = true, ['Soul Guitar'] = true, ['Serpent Bow'] = true } _G.Fruit = { ['Main Fruit'] = {'Kitsune-Kitsune','T-Rex-T-Rex','Mammoth-Mammoth'}, ['Select Fruit'] = {'Dark-Dark','Magma-Magma'} } _G.Mastery = { ['Melee'] = true, ['Sword'] = true, ['Fruit'] = true } _G.Setting = { ['FPS Booster'] = true, ['Auto Close Ui'] = false } loadstring(game:HttpGet("https://raw.githubusercontent.com/NGUYENVUDUY1/Super/refs/heads/main/Kaitun.lua"))()
 ### How to start this course
 
 [![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=hello-github-actions&owner=%40me&name=skills-hello-github-actions&description=My+clone+repository&visibility=public)
